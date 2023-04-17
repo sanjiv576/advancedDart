@@ -1,0 +1,23 @@
+name: data_class
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.19.0-146.2.beta <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+  
+dependencies:
+  build_runner: ^2.3.3
+  dartz: ^0.10.1
+  freezed: ^2.3.2
+  freezed_annotation: ^2.2.0
+  json_serializable: ^6.6.1
+
+  
